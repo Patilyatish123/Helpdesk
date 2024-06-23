@@ -1,0 +1,70 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 5rem 0 0 30rem;
+    background-color: #fff3fd;
+}
+h2{
+    margin-left: 6rem;
+    margin-bottom: 40px;
+    font-size: 40px;
+
+}
+.login1{
+   
+}
+.panel-info{
+    
+}
+
+.col-md-6   {
+    width: 400px;
+    height: 300px;
+    background-color: #fff3fd;  
+    box-shadow: 0px 0px 1px 3px #632763;
+}
+.panel-title{
+    text-align: center;
+    background-color: #632763;
+    padding: 15px 30px;
+    color: white;
+}
+.input-group-addon{
+    color: gray;
+}
+.input-group{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+} 
+.input-group input{
+    width: 300px;
+    height: 30px; 
+    margin-top: 20px;
+}
+.input-group-addon i{
+    margin-top: 20px;
+    background-color: rgb(245, 238, 238);
+    padding: 8px 10px;
+}
+.controls{
+align-items: center;
+justify-content: center;
+display: flex;  
+}
+.controls input{
+    padding: 8px 50px;
+    margin-top: 30px;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(184, 181, 181);
+    border-radius: 10px;
+}
+.controls input:hover{
+    background-color: #632763;
+    color: white;
+}
